@@ -1,5 +1,6 @@
 # We are just testing the CI - CD piple for basic html website
  Please follow the the below step:
+ 
  Step 1 : Setup Git repo
  
  Step 2 : Update the Git repo
